@@ -26,6 +26,7 @@ function getURL($query){
 $obj = getURL($query);
 
 foreach ($obj as $result) {
+	$result = str_replace("`", "\`", $result);
     $w->result( $result, $result, $result, $result, "");
 }
 
