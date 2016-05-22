@@ -7,7 +7,7 @@ alfred-kaomoji-workflow
 
 ## Download
 
-[Download v1.0.1](https://raw.github.com/turusuke/alfred-kaomoji-workflow/master/kaomoji.alfredworkflow)
+[Download v1.0.2](https://raw.github.com/turusuke/alfred-kaomoji-workflow/master/kaomoji.alfredworkflow)
 
 ## Commands
 
